@@ -1,0 +1,9 @@
+Changelog for Windows Credentials Editor (WCE) 32-bit version 
+
+version 1.3beta:
+	March 8, 2012
+        -Bug fixes
+        -Extended support to obtain NTLM hashes without code injection
+        -Added feature to dump login cleartext passwords stored by the Digest Authentication package
+
+
